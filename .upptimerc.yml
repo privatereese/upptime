@@ -3,27 +3,27 @@ owner: privatereese # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
-  - name: WWW EDVGarbe
+  - name: Webseite
     url: https://www.edvgarbe.de
-  - name: Nextcloud EDVGarbe
+  - name: Nextcloud
     url: https://cloud.edvgarbe.de
-  - name: Mail EDVGarbe
+  - name: Mail
     url: https://mail.edvgarbe.de
-  - name: Bitwarden EDVGarbe
+  - name: Bitwarden
     url: https://bitwarden.edvgarbe.de
-  - name: Suche EDVGarbe
+  - name: Suche
     url: https://suche.edvgarbe.de
-  - name: Matrix EDVGarbe
+  - name: Matrix
     url: https://matrix.edvgarbe.de
-  - name: Latex EDVGarbe
+  - name: Latex
     url: https://latex.edvgarbe.de
-  - name: HedgeDoc EDVGarbe
+  - name: HedgeDoc
     url: https://md.edvgarbe.de
-  - name: Mastodon EDVGarbe
+  - name: Mastodon
     url: https://mastodon.edvgarbe.de
-  - name: Wallabag EDVGarbe
+  - name: Wallabag
     url: https://wallabag.edvgarbe.de
-  - name: IRC EDVGarbe
+  - name: IRC
     url: https://irc.edvgarbe.de
 
 
