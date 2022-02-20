@@ -4,9 +4,9 @@
     "url": "https://www.edvgarbe.de",
     "icon": "https://favicons.githubusercontent.com/www.edvgarbe.de",
     "slug": "webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 526,
     "timeMonth": 539,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   },
   {
     "name": "Nextcloud",
     "url": "https://cloud.edvgarbe.de",
     "icon": "https://favicons.githubusercontent.com/cloud.edvgarbe.de",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
@@ -34,6 +36,7 @@
     "timeMonth": 1112,
     "timeYear": 1243,
     "dailyMinutesDown": {
+      "2022-02-20": 0,
       "2021-12-13": 22,
       "2021-11-25": 67,
       "2021-11-15": 291
@@ -65,9 +68,9 @@
     "url": "https://bitwarden.edvgarbe.de",
     "icon": "https://favicons.githubusercontent.com/bitwarden.edvgarbe.de",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -77,6 +80,7 @@
     "timeMonth": 488,
     "timeYear": 563,
     "dailyMinutesDown": {
+      "2022-02-20": 0,
       "2022-01-04": 19
     }
   },
@@ -85,9 +89,9 @@
     "url": "https://suche.edvgarbe.de",
     "icon": "https://favicons.githubusercontent.com/suche.edvgarbe.de",
     "slug": "suche",
-    "status": "up",
+    "status": "down",
     "uptime": "96.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.68%",
@@ -97,6 +101,7 @@
     "timeMonth": 565,
     "timeYear": 603,
     "dailyMinutesDown": {
+      "2022-02-20": 0,
       "2022-01-04": 19,
       "2021-12-20": 859,
       "2021-12-19": 1440,
@@ -110,9 +115,9 @@
     "url": "https://matrix.edvgarbe.de",
     "icon": "https://favicons.githubusercontent.com/matrix.edvgarbe.de",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -121,16 +126,18 @@
     "timeWeek": 516,
     "timeMonth": 502,
     "timeYear": 549,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   },
   {
     "name": "Latex",
     "url": "https://latex.edvgarbe.de",
     "icon": "https://favicons.githubusercontent.com/latex.edvgarbe.de",
     "slug": "latex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -139,16 +146,18 @@
     "timeWeek": 1004,
     "timeMonth": 1119,
     "timeYear": 1220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   },
   {
     "name": "HedgeDoc",
     "url": "https://md.edvgarbe.de",
     "icon": "https://favicons.githubusercontent.com/md.edvgarbe.de",
     "slug": "hedge-doc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -157,16 +166,18 @@
     "timeWeek": 622,
     "timeMonth": 563,
     "timeYear": 645,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   },
   {
     "name": "Mastodon",
     "url": "https://mastodon.edvgarbe.de",
     "icon": "https://favicons.githubusercontent.com/mastodon.edvgarbe.de",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -175,16 +186,18 @@
     "timeWeek": 789,
     "timeMonth": 773,
     "timeYear": 865,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   },
   {
     "name": "Wallabag",
     "url": "https://wallabag.edvgarbe.de",
     "icon": "https://favicons.githubusercontent.com/wallabag.edvgarbe.de",
     "slug": "wallabag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -193,16 +206,18 @@
     "timeWeek": 2406,
     "timeMonth": 2033,
     "timeYear": 2169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   },
   {
     "name": "IRC",
     "url": "https://irc.edvgarbe.de",
     "icon": "https://favicons.githubusercontent.com/irc.edvgarbe.de",
     "slug": "irc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -211,6 +226,8 @@
     "timeWeek": 547,
     "timeMonth": 479,
     "timeYear": 542,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   }
 ]
