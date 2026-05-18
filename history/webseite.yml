@@ -1,7 +1,7 @@
 url: https://www.edvgarbe.de
-status: up
-code: 200
-responseTime: 646
-lastUpdated: 2026-05-17T23:16:23.487Z
+status: down
+code: 502
+responseTime: 348
+lastUpdated: 2026-05-18T02:03:23.222Z
 startTime: 2021-11-13T00:26:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
