@@ -1,7 +1,7 @@
 url: https://bitwarden.edvgarbe.de
-status: up
-code: 200
-responseTime: 723
-lastUpdated: 2026-05-18T23:21:23.074Z
+status: down
+code: 502
+responseTime: 352
+lastUpdated: 2026-05-19T02:03:23.916Z
 startTime: 2021-11-13T00:26:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
