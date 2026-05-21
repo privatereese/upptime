@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.51%",
+    "uptimeWeek": "98.05%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.73%",
     "time": 756,
@@ -36,7 +36,7 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "84.88%",
+    "uptimeDay": "87.52%",
     "uptimeWeek": "73.36%",
     "uptimeMonth": "92.23%",
     "uptimeYear": "98.74%",
@@ -113,7 +113,7 @@
     "status": "up",
     "uptime": "98.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.52%",
+    "uptimeWeek": "98.05%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "98.15%",
     "time": 1018,
@@ -161,10 +161,10 @@
     "slug": "suche",
     "status": "up",
     "uptime": "17.85%",
-    "uptimeDay": "84.94%",
+    "uptimeDay": "87.58%",
     "uptimeWeek": "73.45%",
     "uptimeMonth": "92.26%",
-    "uptimeYear": "25.11%",
+    "uptimeYear": "25.12%",
     "time": 790,
     "timeDay": 924,
     "timeWeek": 917,
@@ -453,8 +453,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   },
   {
@@ -464,9 +463,9 @@
     "slug": "matrix",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "85.00%",
+    "uptimeDay": "87.63%",
     "uptimeWeek": "73.54%",
-    "uptimeMonth": "59.11%",
+    "uptimeMonth": "59.23%",
     "uptimeYear": "96.36%",
     "time": 710,
     "timeDay": 898,
@@ -511,7 +510,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.78%",
-    "uptimeYear": "47.27%",
+    "uptimeYear": "47.28%",
     "time": 766,
     "timeDay": 1186,
     "timeWeek": 1007,
@@ -712,8 +711,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   },
   {
@@ -723,7 +721,7 @@
     "slug": "hedge-doc",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "85.06%",
+    "uptimeDay": "87.67%",
     "uptimeWeek": "73.63%",
     "uptimeMonth": "92.31%",
     "uptimeYear": "99.23%",
@@ -755,10 +753,10 @@
     "slug": "mastodon",
     "status": "up",
     "uptime": "14.23%",
-    "uptimeDay": "85.13%",
+    "uptimeDay": "87.72%",
     "uptimeWeek": "73.73%",
     "uptimeMonth": "92.33%",
-    "uptimeYear": "17.66%",
+    "uptimeYear": "17.67%",
     "time": 714,
     "timeDay": 1112,
     "timeWeek": 954,
@@ -1072,8 +1070,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   },
   {
@@ -1086,14 +1083,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "91.36%",
+    "uptimeYear": "91.35%",
     "time": 2203,
     "timeDay": 2542,
     "timeWeek": 1660,
     "timeMonth": 1647,
     "timeYear": 2174,
     "dailyMinutesDown": {
-      "2026-05-20": 1437,
+      "2026-05-21": 51,
+      "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -1149,7 +1147,8 @@
     "timeMonth": 597,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2026-05-20": 1437,
+      "2026-05-21": 51,
+      "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -1512,8 +1511,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   }
 ]
