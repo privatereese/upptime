@@ -36,12 +36,12 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "68.68%",
-    "uptimeWeek": "83.50%",
-    "uptimeMonth": "88.13%",
-    "uptimeYear": "98.40%",
+    "uptimeDay": "66.14%",
+    "uptimeWeek": "82.93%",
+    "uptimeMonth": "88.00%",
+    "uptimeYear": "98.39%",
     "time": 1326,
-    "timeDay": 1544,
+    "timeDay": 1498,
     "timeWeek": 1366,
     "timeMonth": 1342,
     "timeYear": 1298,
@@ -85,7 +85,7 @@
       "2026-05-25": 329,
       "2026-05-26": 44,
       "2026-05-27": 128,
-      "2026-05-28": 408
+      "2026-05-28": 465
     }
   },
   {
@@ -165,16 +165,16 @@
     "url": "https://suche.edvgarbe.de",
     "icon": "https://icons.duckduckgo.com/ip3/suche.edvgarbe.de.ico",
     "slug": "suche",
-    "status": "up",
+    "status": "down",
     "uptime": "18.16%",
-    "uptimeDay": "68.85%",
-    "uptimeWeek": "83.56%",
-    "uptimeMonth": "88.17%",
-    "uptimeYear": "26.92%",
-    "time": 796,
-    "timeDay": 906,
-    "timeWeek": 863,
-    "timeMonth": 870,
+    "uptimeDay": "70.13%",
+    "uptimeWeek": "83.55%",
+    "uptimeMonth": "88.16%",
+    "uptimeYear": "26.93%",
+    "time": 797,
+    "timeDay": 867,
+    "timeWeek": 862,
+    "timeMonth": 869,
     "timeYear": 824,
     "dailyMinutesDown": {
       "2026-02-15": 1253,
@@ -460,7 +460,7 @@
       "2026-05-25": 328,
       "2026-05-26": 43,
       "2026-05-27": 126,
-      "2026-05-28": 406
+      "2026-05-28": 407
     }
   },
   {
@@ -470,12 +470,12 @@
     "slug": "matrix",
     "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "68.83%",
-    "uptimeWeek": "83.60%",
+    "uptimeDay": "66.25%",
+    "uptimeWeek": "83.04%",
     "uptimeMonth": "80.78%",
-    "uptimeYear": "96.02%",
+    "uptimeYear": "96.01%",
     "time": 723,
-    "timeDay": 864,
+    "timeDay": 815,
     "timeWeek": 824,
     "timeMonth": 809,
     "timeYear": 718,
@@ -512,7 +512,7 @@
       "2026-05-25": 328,
       "2026-05-26": 43,
       "2026-05-27": 126,
-      "2026-05-28": 408
+      "2026-05-28": 464
     }
   },
   {
@@ -525,7 +525,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.78%",
-    "uptimeYear": "49.42%",
+    "uptimeYear": "49.43%",
     "time": 771,
     "timeDay": 832,
     "timeWeek": 1025,
@@ -729,12 +729,12 @@
     "slug": "hedge-doc",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "68.89%",
-    "uptimeWeek": "83.66%",
-    "uptimeMonth": "88.24%",
-    "uptimeYear": "98.89%",
+    "uptimeDay": "66.30%",
+    "uptimeWeek": "83.09%",
+    "uptimeMonth": "88.11%",
+    "uptimeYear": "98.88%",
     "time": 819,
-    "timeDay": 975,
+    "timeDay": 947,
     "timeWeek": 899,
     "timeMonth": 885,
     "timeYear": 809,
@@ -759,7 +759,7 @@
       "2026-05-25": 328,
       "2026-05-26": 43,
       "2026-05-27": 126,
-      "2026-05-28": 405
+      "2026-05-28": 462
     }
   },
   {
@@ -769,12 +769,12 @@
     "slug": "mastodon",
     "status": "down",
     "uptime": "14.56%",
-    "uptimeDay": "68.97%",
-    "uptimeWeek": "83.71%",
-    "uptimeMonth": "88.28%",
+    "uptimeDay": "66.36%",
+    "uptimeWeek": "83.15%",
+    "uptimeMonth": "88.15%",
     "uptimeYear": "19.47%",
     "time": 732,
-    "timeDay": 977,
+    "timeDay": 949,
     "timeWeek": 939,
     "timeMonth": 940,
     "timeYear": 746,
@@ -1087,7 +1087,7 @@
       "2026-05-25": 328,
       "2026-05-26": 43,
       "2026-05-27": 126,
-      "2026-05-28": 405
+      "2026-05-28": 462
     }
   },
   {
@@ -1100,7 +1100,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "89.21%",
+    "uptimeYear": "89.20%",
     "time": 2199,
     "timeDay": 1661,
     "timeWeek": 1798,
@@ -1112,7 +1112,7 @@
       "2025-07-02": 28,
       "2025-08-17": 266,
       "2025-12-22": 51,
-      "2026-05-28": 1200,
+      "2026-05-28": 1257,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
@@ -1171,7 +1171,7 @@
     "timeMonth": 591,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2026-05-28": 1200,
+      "2026-05-28": 1257,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
