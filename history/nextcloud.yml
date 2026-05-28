@@ -1,7 +1,7 @@
 url: https://cloud.edvgarbe.de
-status: up
-code: 200
-responseTime: 1356
-lastUpdated: 2026-05-28T09:01:22.005Z
+status: down
+code: 403
+responseTime: 1203
+lastUpdated: 2026-05-28T10:33:24.420Z
 startTime: 2021-11-13T00:26:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
