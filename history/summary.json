@@ -35,9 +35,9 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "70.23%",
-    "uptimeWeek": "68.46%",
-    "uptimeMonth": "73.28%",
+    "uptimeDay": "67.83%",
+    "uptimeWeek": "68.11%",
+    "uptimeMonth": "73.20%",
     "uptimeYear": "97.77%",
     "time": 1319,
     "timeDay": 1311,
@@ -69,7 +69,7 @@
       "2026-06-28": 246,
       "2026-06-29": 39,
       "2026-06-30": 427,
-      "2026-07-01": 2
+      "2026-07-01": 36
     }
   },
   {
@@ -153,10 +153,10 @@
     "slug": "suche",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "70.36%",
-    "uptimeWeek": "67.97%",
-    "uptimeMonth": "73.23%",
-    "uptimeYear": "97.77%",
+    "uptimeDay": "67.95%",
+    "uptimeWeek": "67.63%",
+    "uptimeMonth": "73.15%",
+    "uptimeYear": "97.76%",
     "time": 806,
     "timeDay": 798,
     "timeWeek": 807,
@@ -187,7 +187,7 @@
       "2026-06-28": 246,
       "2026-06-29": 39,
       "2026-06-30": 426,
-      "2026-07-01": 1
+      "2026-07-01": 36
     }
   },
   {
@@ -197,9 +197,9 @@
     "slug": "matrix",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "70.47%",
-    "uptimeWeek": "68.04%",
-    "uptimeMonth": "73.29%",
+    "uptimeDay": "68.06%",
+    "uptimeWeek": "67.69%",
+    "uptimeMonth": "73.21%",
     "uptimeYear": "97.77%",
     "time": 749,
     "timeDay": 777,
@@ -231,7 +231,7 @@
       "2026-06-28": 245,
       "2026-06-29": 39,
       "2026-06-30": 424,
-      "2026-07-01": 1
+      "2026-07-01": 36
     }
   },
   {
@@ -426,10 +426,10 @@
     "slug": "hedge-doc",
     "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "70.59%",
-    "uptimeWeek": "51.33%",
-    "uptimeMonth": "67.73%",
-    "uptimeYear": "97.31%",
+    "uptimeDay": "68.19%",
+    "uptimeWeek": "50.98%",
+    "uptimeMonth": "67.65%",
+    "uptimeYear": "97.30%",
     "time": 840,
     "timeDay": 1738,
     "timeWeek": 1153,
@@ -461,7 +461,7 @@
       "2026-06-27": 1440,
       "2026-06-29": 39,
       "2026-06-30": 422,
-      "2026-07-01": 1
+      "2026-07-01": 36
     }
   },
   {
@@ -471,10 +471,10 @@
     "slug": "mastodon",
     "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "70.70%",
+    "uptimeDay": "68.30%",
     "uptimeWeek": "50.81%",
-    "uptimeMonth": "67.62%",
-    "uptimeYear": "97.30%",
+    "uptimeMonth": "67.54%",
+    "uptimeYear": "97.29%",
     "time": 805,
     "timeDay": 977,
     "timeWeek": 1048,
@@ -506,7 +506,7 @@
       "2026-06-27": 1440,
       "2026-06-29": 38,
       "2026-06-30": 421,
-      "2026-07-01": 1
+      "2026-07-01": 36
     }
   },
   {
@@ -516,10 +516,10 @@
     "slug": "wallabag",
     "status": "down",
     "uptime": "95.54%",
-    "uptimeDay": "70.81%",
+    "uptimeDay": "68.40%",
     "uptimeWeek": "50.84%",
     "uptimeMonth": "26.70%",
-    "uptimeYear": "82.31%",
+    "uptimeYear": "82.30%",
     "time": 2124,
     "timeDay": 1379,
     "timeWeek": 2373,
@@ -602,7 +602,7 @@
       "2026-06-27": 1440,
       "2026-06-29": 38,
       "2026-06-30": 421,
-      "2026-07-01": 1
+      "2026-07-01": 35
     }
   },
   {
@@ -622,7 +622,7 @@
     "timeMonth": 0,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2026-07-01": 20,
+      "2026-07-01": 54,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
