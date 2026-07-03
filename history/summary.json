@@ -34,10 +34,10 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "76.61%",
-    "uptimeWeek": "69.20%",
-    "uptimeMonth": "75.02%",
-    "uptimeYear": "97.92%",
+    "uptimeDay": "69.73%",
+    "uptimeWeek": "68.26%",
+    "uptimeMonth": "74.79%",
+    "uptimeYear": "97.90%",
     "time": 1310,
     "timeDay": 1063,
     "timeWeek": 1266,
@@ -68,7 +68,7 @@
       "2026-06-30": 427,
       "2026-07-01": 327,
       "2026-07-02": 336,
-      "2026-07-03": 2
+      "2026-07-03": 101
     }
   },
   {
@@ -150,13 +150,13 @@
     "slug": "suche",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "76.67%",
-    "uptimeWeek": "68.72%",
-    "uptimeMonth": "74.97%",
-    "uptimeYear": "97.91%",
+    "uptimeDay": "69.79%",
+    "uptimeWeek": "67.78%",
+    "uptimeMonth": "74.74%",
+    "uptimeYear": "97.90%",
     "time": 806,
     "timeDay": 792,
-    "timeWeek": 779,
+    "timeWeek": 782,
     "timeMonth": 808,
     "timeYear": 826,
     "dailyMinutesDown": {
@@ -184,7 +184,7 @@
       "2026-06-30": 426,
       "2026-07-01": 326,
       "2026-07-02": 334,
-      "2026-07-03": 2
+      "2026-07-03": 101
     }
   },
   {
@@ -194,10 +194,10 @@
     "slug": "matrix",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "76.74%",
-    "uptimeWeek": "68.78%",
-    "uptimeMonth": "75.03%",
-    "uptimeYear": "97.92%",
+    "uptimeDay": "69.85%",
+    "uptimeWeek": "67.84%",
+    "uptimeMonth": "74.81%",
+    "uptimeYear": "97.90%",
     "time": 749,
     "timeDay": 753,
     "timeWeek": 778,
@@ -228,7 +228,7 @@
       "2026-06-30": 424,
       "2026-07-01": 324,
       "2026-07-02": 333,
-      "2026-07-03": 1
+      "2026-07-03": 100
     }
   },
   {
@@ -241,7 +241,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.05%",
-    "uptimeYear": "58.19%",
+    "uptimeYear": "58.20%",
     "time": 822,
     "timeDay": 1032,
     "timeWeek": 1088,
@@ -420,14 +420,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/md.edvgarbe.de.ico",
     "slug": "hedge-doc",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "76.80%",
-    "uptimeWeek": "52.07%",
-    "uptimeMonth": "68.08%",
-    "uptimeYear": "97.34%",
+    "uptime": "99.42%",
+    "uptimeDay": "69.91%",
+    "uptimeWeek": "51.13%",
+    "uptimeMonth": "67.85%",
+    "uptimeYear": "97.32%",
     "time": 844,
     "timeDay": 850,
-    "timeWeek": 1121,
+    "timeWeek": 1131,
     "timeMonth": 900,
     "timeYear": 843,
     "dailyMinutesDown": {
@@ -457,7 +457,7 @@
       "2026-06-30": 422,
       "2026-07-01": 324,
       "2026-07-02": 333,
-      "2026-07-03": 1
+      "2026-07-03": 100
     }
   },
   {
@@ -467,13 +467,13 @@
     "slug": "mastodon",
     "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "76.86%",
-    "uptimeWeek": "52.11%",
-    "uptimeMonth": "67.96%",
-    "uptimeYear": "97.33%",
+    "uptimeDay": "69.97%",
+    "uptimeWeek": "51.17%",
+    "uptimeMonth": "67.74%",
+    "uptimeYear": "97.31%",
     "time": 800,
     "timeDay": 836,
-    "timeWeek": 1040,
+    "timeWeek": 1041,
     "timeMonth": 954,
     "timeYear": 833,
     "dailyMinutesDown": {
@@ -503,7 +503,7 @@
       "2026-06-30": 421,
       "2026-07-01": 323,
       "2026-07-02": 333,
-      "2026-07-03": 1
+      "2026-07-03": 100
     }
   },
   {
@@ -512,14 +512,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/wallabag.edvgarbe.de.ico",
     "slug": "wallabag",
     "status": "down",
-    "uptime": "95.52%",
-    "uptimeDay": "76.92%",
-    "uptimeWeek": "52.15%",
+    "uptime": "95.51%",
+    "uptimeDay": "70.03%",
+    "uptimeWeek": "51.21%",
     "uptimeMonth": "31.91%",
-    "uptimeYear": "82.19%",
+    "uptimeYear": "82.17%",
     "time": 2094,
     "timeDay": 1227,
-    "timeWeek": 1395,
+    "timeWeek": 1387,
     "timeMonth": 1735,
     "timeYear": 2005,
     "dailyMinutesDown": {
@@ -600,7 +600,7 @@
       "2026-06-30": 421,
       "2026-07-01": 321,
       "2026-07-02": 331,
-      "2026-07-03": 1
+      "2026-07-03": 100
     }
   },
   {
@@ -620,7 +620,7 @@
     "timeMonth": 0,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2026-07-03": 74,
+      "2026-07-03": 173,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
