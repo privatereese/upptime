@@ -36,10 +36,10 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "74.27%",
-    "uptimeWeek": "66.06%",
-    "uptimeMonth": "68.58%",
-    "uptimeYear": "97.38%",
+    "uptimeDay": "68.35%",
+    "uptimeWeek": "65.21%",
+    "uptimeMonth": "68.38%",
+    "uptimeYear": "97.36%",
     "time": 1320,
     "timeDay": 1166,
     "timeWeek": 1344,
@@ -75,7 +75,7 @@
       "2026-07-11": 490,
       "2026-07-12": 792,
       "2026-07-13": 369,
-      "2026-07-14": 2
+      "2026-07-14": 87
     }
   },
   {
@@ -162,10 +162,10 @@
     "slug": "suche",
     "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "74.32%",
+    "uptimeDay": "68.40%",
     "uptimeWeek": "43.29%",
-    "uptimeMonth": "59.92%",
-    "uptimeYear": "96.66%",
+    "uptimeMonth": "59.73%",
+    "uptimeYear": "96.64%",
     "time": 804,
     "timeDay": 670,
     "timeWeek": 750,
@@ -202,7 +202,7 @@
       "2026-07-11": 490,
       "2026-07-12": 881,
       "2026-07-13": 368,
-      "2026-07-14": 2
+      "2026-07-14": 87
     }
   },
   {
@@ -211,11 +211,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.edvgarbe.de.ico",
     "slug": "matrix",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "74.37%",
-    "uptimeWeek": "67.30%",
-    "uptimeMonth": "68.97%",
-    "uptimeYear": "97.41%",
+    "uptime": "99.44%",
+    "uptimeDay": "68.46%",
+    "uptimeWeek": "66.46%",
+    "uptimeMonth": "68.77%",
+    "uptimeYear": "97.40%",
     "time": 745,
     "timeDay": 601,
     "timeWeek": 727,
@@ -250,7 +250,7 @@
       "2026-07-11": 488,
       "2026-07-12": 673,
       "2026-07-13": 367,
-      "2026-07-14": 1
+      "2026-07-14": 87
     }
   },
   {
@@ -263,7 +263,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.59%",
     "uptimeMonth": "99.02%",
-    "uptimeYear": "61.11%",
+    "uptimeYear": "61.13%",
     "time": 824,
     "timeDay": 896,
     "timeWeek": 958,
@@ -434,11 +434,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/md.edvgarbe.de.ico",
     "slug": "hedge-doc",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "74.43%",
-    "uptimeWeek": "67.36%",
-    "uptimeMonth": "63.41%",
-    "uptimeYear": "96.95%",
+    "uptime": "99.34%",
+    "uptimeDay": "68.51%",
+    "uptimeWeek": "66.51%",
+    "uptimeMonth": "63.22%",
+    "uptimeYear": "96.93%",
     "time": 839,
     "timeDay": 755,
     "timeWeek": 820,
@@ -475,7 +475,7 @@
       "2026-07-11": 487,
       "2026-07-12": 671,
       "2026-07-13": 367,
-      "2026-07-14": 1
+      "2026-07-14": 86
     }
   },
   {
@@ -485,10 +485,10 @@
     "slug": "mastodon",
     "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "74.48%",
-    "uptimeWeek": "67.41%",
-    "uptimeMonth": "63.29%",
-    "uptimeYear": "96.94%",
+    "uptimeDay": "68.57%",
+    "uptimeWeek": "66.56%",
+    "uptimeMonth": "63.10%",
+    "uptimeYear": "96.92%",
     "time": 815,
     "timeDay": 872,
     "timeWeek": 886,
@@ -525,7 +525,7 @@
       "2026-07-11": 486,
       "2026-07-12": 671,
       "2026-07-13": 367,
-      "2026-07-14": 1
+      "2026-07-14": 86
     }
   },
   {
@@ -535,10 +535,10 @@
     "slug": "wallabag",
     "status": "down",
     "uptime": "95.80%",
-    "uptimeDay": "74.53%",
-    "uptimeWeek": "67.46%",
+    "uptimeDay": "68.62%",
+    "uptimeWeek": "66.61%",
     "uptimeMonth": "54.90%",
-    "uptimeYear": "81.09%",
+    "uptimeYear": "81.08%",
     "time": 2024,
     "timeDay": 1684,
     "timeWeek": 1413,
@@ -633,7 +633,7 @@
       "2026-07-11": 486,
       "2026-07-12": 671,
       "2026-07-13": 367,
-      "2026-07-14": 1
+      "2026-07-14": 86
     }
   },
   {
@@ -642,7 +642,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/irc.edvgarbe.de.ico",
     "slug": "irc",
     "status": "down",
-    "uptime": "33.81%",
+    "uptime": "33.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -653,7 +653,7 @@
     "timeMonth": 0,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2026-07-14": 60,
+      "2026-07-14": 145,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
