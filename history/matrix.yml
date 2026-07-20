@@ -1,7 +1,7 @@
 url: https://matrix.edvgarbe.de
-status: up
-code: 200
-responseTime: 664
-lastUpdated: 2026-07-20T05:13:15.267Z
+status: down
+code: 403
+responseTime: 861
+lastUpdated: 2026-07-20T06:24:27.468Z
 startTime: 2021-11-13T00:26:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
