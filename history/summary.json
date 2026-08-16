@@ -4,11 +4,11 @@
     "url": "https://www.edvgarbe.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.edvgarbe.de.ico",
     "slug": "webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.75%",
     "time": 708,
     "timeDay": 636,
@@ -27,7 +27,8 @@
       "2026-06-20": 75,
       "2026-07-05": 98,
       "2026-07-08": 76,
-      "2026-07-17": 23
+      "2026-07-17": 23,
+      "2026-08-16": 15
     }
   },
   {
@@ -35,17 +36,17 @@
     "url": "https://cloud.edvgarbe.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.edvgarbe.de.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "56.92%",
-    "uptimeWeek": "49.98%",
-    "uptimeMonth": "76.46%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "55.04%",
+    "uptimeWeek": "49.96%",
+    "uptimeMonth": "76.40%",
+    "uptimeYear": "98.03%",
     "time": 1297,
-    "timeDay": 1149,
+    "timeDay": 1166,
     "timeWeek": 1180,
-    "timeMonth": 1258,
-    "timeYear": 1291,
+    "timeMonth": 1259,
+    "timeYear": 1292,
     "dailyMinutesDown": {
       "2026-08-02": 473,
       "2026-08-03": 400,
@@ -61,7 +62,7 @@
       "2026-08-13": 326,
       "2026-08-14": 758,
       "2026-08-15": 905,
-      "2026-08-16": 559
+      "2026-08-16": 586
     }
   },
   {
@@ -69,11 +70,11 @@
     "url": "https://mail.edvgarbe.de",
     "icon": "https://icons.duckduckgo.com/ip3/mail.edvgarbe.de.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "98.73%",
     "time": 1015,
     "timeDay": 840,
@@ -99,7 +100,8 @@
       "2026-07-05": 93,
       "2026-07-08": 72,
       "2026-07-12": 282,
-      "2026-07-17": 18
+      "2026-07-17": 18,
+      "2026-08-16": 11
     }
   },
   {
@@ -107,12 +109,12 @@
     "url": "https://bitwarden.edvgarbe.de",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.edvgarbe.de.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.74%",
-    "uptimeMonth": "96.72%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "98.03%",
     "time": 768,
     "timeDay": 746,
     "timeWeek": 486,
@@ -141,7 +143,8 @@
       "2026-07-08": 67,
       "2026-07-12": 282,
       "2026-08-15": 153,
-      "2026-08-14": 1285
+      "2026-08-14": 1285,
+      "2026-08-16": 6
     }
   },
   {
@@ -149,15 +152,15 @@
     "url": "https://suche.edvgarbe.de",
     "icon": "https://icons.duckduckgo.com/ip3/suche.edvgarbe.de.ico",
     "slug": "suche",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "57.14%",
-    "uptimeWeek": "49.59%",
-    "uptimeMonth": "76.34%",
-    "uptimeYear": "98.03%",
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "54.59%",
+    "uptimeWeek": "49.48%",
+    "uptimeMonth": "76.25%",
+    "uptimeYear": "98.02%",
     "time": 777,
-    "timeDay": 726,
-    "timeWeek": 722,
+    "timeDay": 731,
+    "timeWeek": 726,
     "timeMonth": 735,
     "timeYear": 784,
     "dailyMinutesDown": {
@@ -176,7 +179,7 @@
       "2026-08-13": 325,
       "2026-08-14": 809,
       "2026-08-15": 901,
-      "2026-08-16": 558
+      "2026-08-16": 594
     }
   },
   {
@@ -184,16 +187,16 @@
     "url": "https://matrix.edvgarbe.de",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.edvgarbe.de.ico",
     "slug": "matrix",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "57.35%",
-    "uptimeWeek": "50.23%",
-    "uptimeMonth": "76.56%",
-    "uptimeYear": "98.05%",
+    "uptimeDay": "54.81%",
+    "uptimeWeek": "50.12%",
+    "uptimeMonth": "76.48%",
+    "uptimeYear": "98.04%",
     "time": 752,
-    "timeDay": 681,
-    "timeWeek": 708,
-    "timeMonth": 763,
+    "timeDay": 688,
+    "timeWeek": 711,
+    "timeMonth": 764,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2026-08-02": 468,
@@ -210,7 +213,7 @@
       "2026-08-13": 324,
       "2026-08-14": 757,
       "2026-08-15": 899,
-      "2026-08-16": 553
+      "2026-08-16": 590
     }
   },
   {
@@ -218,10 +221,10 @@
     "url": "https://latex.edvgarbe.de",
     "icon": "https://icons.duckduckgo.com/ip3/latex.edvgarbe.de.ico",
     "slug": "latex",
-    "status": "up",
+    "status": "down",
     "uptime": "82.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "75.17%",
     "uptimeYear": "68.33%",
     "time": 818,
@@ -361,7 +364,8 @@
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
-      "2026-07-23": 232
+      "2026-07-23": 232,
+      "2026-08-16": 1
     }
   },
   {
@@ -369,15 +373,15 @@
     "url": "https://md.edvgarbe.de",
     "icon": "https://icons.duckduckgo.com/ip3/md.edvgarbe.de.ico",
     "slug": "hedge-doc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "57.57%",
-    "uptimeWeek": "50.35%",
-    "uptimeMonth": "76.61%",
-    "uptimeYear": "98.05%",
+    "uptimeDay": "54.69%",
+    "uptimeWeek": "50.19%",
+    "uptimeMonth": "76.52%",
+    "uptimeYear": "98.04%",
     "time": 817,
-    "timeDay": 816,
-    "timeWeek": 773,
+    "timeDay": 822,
+    "timeWeek": 777,
     "timeMonth": 780,
     "timeYear": 820,
     "dailyMinutesDown": {
@@ -395,7 +399,7 @@
       "2026-08-13": 323,
       "2026-08-14": 754,
       "2026-08-15": 898,
-      "2026-08-16": 550
+      "2026-08-16": 592
     }
   },
   {
@@ -403,15 +407,15 @@
     "url": "https://mastodon.edvgarbe.de",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.edvgarbe.de.ico",
     "slug": "mastodon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "55.50%",
-    "uptimeWeek": "50.15%",
-    "uptimeMonth": "76.53%",
+    "uptimeDay": "52.63%",
+    "uptimeWeek": "49.98%",
+    "uptimeMonth": "76.44%",
     "uptimeYear": "98.04%",
     "time": 822,
-    "timeDay": 813,
-    "timeWeek": 856,
+    "timeDay": 826,
+    "timeWeek": 858,
     "timeMonth": 835,
     "timeYear": 844,
     "dailyMinutesDown": {
@@ -430,7 +434,7 @@
       "2026-08-13": 323,
       "2026-08-14": 751,
       "2026-08-15": 896,
-      "2026-08-16": 579
+      "2026-08-16": 620
     }
   },
   {
@@ -438,16 +442,16 @@
     "url": "https://wallabag.edvgarbe.de",
     "icon": "https://icons.duckduckgo.com/ip3/wallabag.edvgarbe.de.ico",
     "slug": "wallabag",
-    "status": "down",
+    "status": "up",
     "uptime": "97.80%",
-    "uptimeDay": "29.61%",
-    "uptimeWeek": "4.23%",
-    "uptimeMonth": "3.73%",
-    "uptimeYear": "89.54%",
-    "time": 1907,
-    "timeDay": 1100,
-    "timeWeek": 1179,
-    "timeMonth": 1312,
+    "uptimeDay": "29.68%",
+    "uptimeWeek": "4.24%",
+    "uptimeMonth": "3.74%",
+    "uptimeYear": "89.53%",
+    "time": 1905,
+    "timeDay": 1117,
+    "timeWeek": 1190,
+    "timeMonth": 1314,
     "timeYear": 1764,
     "dailyMinutesDown": {
       "2026-06-25": 32,
@@ -475,7 +479,7 @@
       "2026-07-17": 711,
       "2026-07-18": 608,
       "2026-07-19": 961,
-      "2026-08-16": 893,
+      "2026-08-16": 934,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -522,7 +526,7 @@
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2026-08-16": 1317,
+      "2026-08-16": 1359,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
