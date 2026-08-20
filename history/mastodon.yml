@@ -1,7 +1,7 @@
 url: https://mastodon.edvgarbe.de
-status: down
-code: 403
-responseTime: 790
-lastUpdated: 2026-08-20T18:02:59.407Z
+status: up
+code: 200
+responseTime: 695
+lastUpdated: 2026-08-20T19:27:33.297Z
 startTime: 2021-11-13T00:26:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
