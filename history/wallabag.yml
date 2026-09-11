@@ -1,7 +1,7 @@
 url: https://wallabag.edvgarbe.de
-status: up
-code: 200
-responseTime: 1644
-lastUpdated: 2026-09-10T05:11:19.683Z
+status: down
+code: 403
+responseTime: 569
+lastUpdated: 2026-09-11T00:24:49.279Z
 startTime: 2021-11-13T00:26:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
